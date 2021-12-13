@@ -1,8 +1,5 @@
 # WhyRedX's Status :
 
-<a href="https://github.com/whyredx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=whyredx&repo=github-readme-stats&theme=buefy" />
-</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyredx&layout=compact" width="490px" height="170px">
-
+<img src="https://github-readme-stats.vercel.app/api?username=WhyRedX&count_private=false&show_icons=true&theme=tokyonight" height="170px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyRedX&layout=compact&theme=tokyonight" height="170px">
