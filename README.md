@@ -34,4 +34,4 @@
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/60150901/161124963-bf7977cf-5862-494e-9606-2d055bf03ab8.png" width="300%" />
+<img src="https://user-images.githubusercontent.com/60150901/161124963-bf7977cf-5862-494e-9606-2d055bf03ab8.png" width="100%"/>
