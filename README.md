@@ -1,5 +1,5 @@
-<img src="https://telegra.ph/file/774a2156ff87cd41580d8.png" width="100%" />
-<h1 align="center">Hey👋 I'm Abhishek Shakya</h1>
+<img src="https://user-images.githubusercontent.com/60150901/161126442-fcd7b212-edfe-479f-a465-d3de0a0d5166.png" width="100%" />
+<h1 align="center" >Hey👋 I'm Bhupendra Thapa</h1>
 
 <br />
 
@@ -12,10 +12,10 @@
 <br />
 
 ## 🧭 Connect with me
-<a href="https://www.linkedin.com/in/abhixshakya" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://telegra.ph/file/fc2bbced48735eb123549.png" alt="linkedin" width=36 /></a>&nbsp;
-<a href="https://telegram.me/abhixshakya" target="_blank" rel="noopener noreferrer" title="telegram"><img src="https://telegra.ph/file/172f5b1bc5d1a91975fc6.png" alt="telegram" width=36 /></a>&nbsp;
-<a href="https://twitter.com/itsAbhiXShakya" target="_blank" rel="noopener noreferrer" title="twitter"><img src="https://telegra.ph/file/9008e9e7c230dce281480.png" alt="twitter" width=36 /></a>&nbsp;
-<a href="mailto:abhixshakya@gmail.com" target="_blank" rel="noopener noreferrer" title="mail"><img src="https://telegra.ph/file/4ba2518cda4258c8d4474.png" alt="mail" width=36 /></a>
+<a href="https://www.linkedin.com/in/whyredx" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img src="https://telegra.ph/file/fc2bbced48735eb123549.png" alt="linkedin" width=36 /></a>&nbsp;
+<a href="https://telegram.me/whyredx" target="_blank" rel="noopener noreferrer" title="telegram"><img src="https://telegra.ph/file/172f5b1bc5d1a91975fc6.png" alt="telegram" width=36 /></a>&nbsp;
+<a href="#" target="_blank" rel="noopener noreferrer" title="twitter"><img src="https://telegra.ph/file/9008e9e7c230dce281480.png" alt="twitter" width=36 /></a>&nbsp;
+<a href="mailto:thapabhupendra9779@gmail.com" target="_blank" rel="noopener noreferrer" title="mail"><img src="https://telegra.ph/file/4ba2518cda4258c8d4474.png" alt="mail" width=36 /></a>
 
 <br />
 
@@ -34,4 +34,4 @@
 
 <br />
 
-<img src="https://telegra.ph/file/83daecfd229afc6c63c78.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/60150901/161124963-bf7977cf-5862-494e-9606-2d055bf03ab8.png" width="300%" />
