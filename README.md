@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/60150901/161126442-fcd7b212-edfe-479f-a465-d3de0a0d5166.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/60150901/161127264-e448422e-1abc-407a-a363-5b2af39dd51b.png" width="100%" />
 <h1 align="center" >Hey👋 I'm Bhupendra Thapa</h1>
 
 <br />
