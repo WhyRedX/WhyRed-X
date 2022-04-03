@@ -5,10 +5,9 @@
 
 ## :book: About Me
 - 🖥 I'm a Full Stack **Web Developer**.
-- ⛷ Currently learning **Blockchain Development**.
 - ⚡ I convert caffeine into code.
 - 👨‍🎓 Studying **Bachelor of Engineering** in **Computer Science**.
-- 💖 I love **Python** and **Javascript**.
+- 💖 I love **Front-end Development**.
 <br />
 
 ## :trident: Connect with me
